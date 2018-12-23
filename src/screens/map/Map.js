@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { View, StyleSheet } from "react-native";
-import { Content, Header, Button, Item, Icon, Input, Fab } from "native-base";
+import { Content, Header, Button, Item, Icon, Input } from "native-base";
 import MapView from "react-native-maps";
 import { ROUTES } from "res/constants";
 import { Screen, UserProfileFAB, AddPlaceFAB } from "components";
